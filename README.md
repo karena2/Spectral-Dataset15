@@ -1,6 +1,6 @@
 # Spectral Band Selection in Optical Systems for the Classification of Materials Dataset
 
-## Autors: Karen Fonseca, Pablo Gómez, Hans Garcia and Henry Arguello
+## Autors: Karen Fonseca, Pablo Gómez, Hans Garcia, Jorge Bacca and Henry Arguello
 ## Universidad Industrial de Santander, Bucaramanga, Colombia
 
 ## How to cite
